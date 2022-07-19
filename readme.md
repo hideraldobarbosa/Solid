@@ -4,23 +4,18 @@
 
 Este repositório contem material referente a treinamento sobre SOLID - utilizando Dotnet 6 C# [HTL Leonding](https://www.udemy.com/course/curso-design-patterns-csharp).
 
-### Solid - Letra S
+### LETRA "S"
 
-Single Responsability Principle - Principío da responsabilidade única, onde prega que uma classe, metodo, etc não devem conter mais do que aquele responsabilidade que lhe é inerente
+Single Responsability Principle - Principío da responsabilidade única, Uma classe deve ter um, e somente um, motivo para mudar. 
+Esse princípio declara que uma classe deve ser especializada em um único assunto e possuir apenas uma responsabilidade dentro do software, ou seja, a classe deve ter uma única tarefa ou ação para executar. Uma classe com muitas responsabilidades é denominada God Class, *God Class — Classe Deus: Na programação orientada a objetos, é uma classe que sabe demais ou faz demais.
+# A violação do Single Responsability pode impactar e gerar diversos problemas, tais como  
+  Falta de coesão — uma classe não deve assumir responsabilidades que não são suas;
+  Alto acoplamento — Mais responsabilidades geram um maior nível de dependências, deixando o sistema engessado e frágil para alterações;
+  Dificuldades na implementação de testes automatizados — É difícil de “mockar” esse tipo de classe;
+  Dificuldades para reaproveitar o código;
 
 
-### Online
+### LETRA "O"
 
-[https://htl-leo-csharp-4-slides.azurewebsites.net/](https://htl-leo-csharp-4-slides.azurewebsites.net/)
+Open Close Principle - Principío que prega que uma classe , onde prega que uma classe não devem conter mais do que aquele responsabilidade que lhe é inerente
 
-### Locally
-
-You need to have Node.js installed in order to view slides locally. Run `npm install` to install necessary packages.
-
-To view a certain chapter, run `npm start -- ./slides/0010-course-overview.md` (replace *0010-course-overview.md* with the name of the chapter you want to view).
-
-If you would like to view all the slides, run `npm build`. It will create *slides/9999_full.md*. You can view this file just like a single chapter (see description above).
-
-### Docker
-
-The slides are available as a Docker image [on the Docker Hub](https://hub.docker.com/repository/docker/rstropek/htl-leo-csharp-4-slides/general) (*rstropek/htl-leo-csharp-4-slides*). To view slides locally on e.g. port 8081 run `docker run -p 8081:80 rstropek/htl-leo-csharp-4-slides`.
