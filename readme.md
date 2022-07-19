@@ -12,10 +12,13 @@ Este repositório contem material referente a treinamento sobre SOLID - utilizan
   
 ### A violação do Single Responsability pode impactar e gerar diversos problemas, tais como  
 
-  Falta de coesão — uma classe não deve assumir responsabilidades que não são suas;
-  Alto acoplamento — Mais responsabilidades geram um maior nível de dependências, deixando o sistema engessado e frágil para alterações;
-  Dificuldades na implementação de testes automatizados — É difícil de “mockar” esse tipo de classe;
-  Dificuldades para reaproveitar o código;
+    Falta de coesão — uma classe não deve assumir responsabilidades que não são suas;
+    
+    Alto acoplamento — Mais responsabilidades geram um maior nível de dependências, deixando o sistema engessado e frágil para alterações;
+    
+    Dificuldades na implementação de testes automatizados — É difícil de “mockar” esse tipo de classe;
+    
+    Dificuldades para reaproveitar o código;
 
 
 # LETRA "O"
