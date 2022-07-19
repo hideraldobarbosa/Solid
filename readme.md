@@ -1,10 +1,10 @@
-# SOLID - C# 
+### SOLID - C# 
 
-## Content
+## Sobre o repositório
 
 Este repositório contem material referente a treinamento sobre SOLID - utilizando Dotnet 6 C# [HTL Leonding](https://www.udemy.com/course/curso-design-patterns-csharp).
 
-## Solid - Letra S
+### Solid - Letra S
 
 Single Responsability Principle - Principío da responsabilidade única, onde prega que uma classe, metodo, etc não devem conter mais do que aquele responsabilidade que lhe é inerente
 
