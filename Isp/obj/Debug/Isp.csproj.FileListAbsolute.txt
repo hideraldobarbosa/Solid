@@ -1,0 +1,8 @@
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\bin\Debug\Isp.exe.config
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\bin\Debug\Isp.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\bin\Debug\Isp.pdb
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\obj\Debug\Isp.csproj.AssemblyReference.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\obj\Debug\Isp.csproj.SuggestedBindingRedirects.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\obj\Debug\Isp.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Isp\obj\Debug\Isp.pdb

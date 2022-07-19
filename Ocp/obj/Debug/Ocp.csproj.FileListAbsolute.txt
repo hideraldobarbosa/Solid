@@ -1,0 +1,8 @@
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\obj\Debug\Ocp.csproj.AssemblyReference.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\obj\Debug\Ocp.csproj.SuggestedBindingRedirects.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\bin\Debug\Ocp.exe.config
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\bin\Debug\Ocp.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\bin\Debug\Ocp.pdb
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\obj\Debug\Ocp.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Ocp\obj\Debug\Ocp.pdb

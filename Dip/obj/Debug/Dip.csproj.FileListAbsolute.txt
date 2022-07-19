@@ -1,0 +1,8 @@
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\bin\Debug\Dip.exe.config
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\bin\Debug\Dip.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\bin\Debug\Dip.pdb
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\obj\Debug\Dip.csproj.AssemblyReference.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\obj\Debug\Dip.csproj.SuggestedBindingRedirects.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\obj\Debug\Dip.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Dip\obj\Debug\Dip.pdb

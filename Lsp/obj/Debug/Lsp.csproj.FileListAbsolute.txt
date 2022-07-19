@@ -1,0 +1,8 @@
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\bin\Debug\Lsp.exe.config
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\bin\Debug\Lsp.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\bin\Debug\Lsp.pdb
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\obj\Debug\Lsp.csproj.AssemblyReference.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\obj\Debug\Lsp.csproj.SuggestedBindingRedirects.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\obj\Debug\Lsp.exe
+C:\Trabalho\Estudos\dotnet\BoasPraticas\Solid\Lsp\obj\Debug\Lsp.pdb
